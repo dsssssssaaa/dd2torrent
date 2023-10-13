@@ -5,9 +5,9 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
+  name: "YYY"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
+  url: "https://b2.gangsloni.com/file/gangsloni/win/vst/valhalla/Omnisphere.zip"
   file_name: "android-studio-ide-201.7042882-windows.exe"
   piece_size: 19 # Check the README.md for recommended piece size
       
